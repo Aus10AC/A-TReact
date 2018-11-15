@@ -1,0 +1,5 @@
+.Footer {
+  grid-column: 1 / -1;
+  grid-row: 39 / span 20;
+  background-color: blue;
+}
